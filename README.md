@@ -20,7 +20,7 @@ Installation
 
 Clone the repository and set up the script:
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Sad6530/Sa.git
 cd your-repository
 chmod +x backup.py
 
